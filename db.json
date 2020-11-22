@@ -4,61 +4,61 @@
         "id": 1,
         "name": "Orco",
         "comment": "A diferencia de las demás razas de la Horda, los orcos no son nativos de Azeroth. En sus orígenes, vivían como clanes chamánicos en el exuberante mundo de Draenor.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/b/b2/Hisoka1.jpeg"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/74/Orc_Crest.png"
       },
       {
         "id": 2,
         "name": "No-Muerto",
         "comment": "La muerte no supuso el descanso eterno que esperaba la multitud de humanos asesinados durante la campaña del Rey Exánime para erradicar toda vida de Lordaeron.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/8/83/BoFIV_Ryu_Artwork.webp5"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/72/Forsaken_Crest.png"
       },
       {
         "id": 3,
         "name": "Tauren",
         "comment": "Los pacíficos tauren, conocidos en su idioma como los shu'halo, son antiguos moradores de Kalimdor que luchan por preservar el equilibrio de la naturaleza a petición de su diosa, la Madre Tierra.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/CuddlesProfilePictureImageZ.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/78/Tauren_Crest.png"
       },
       {
         "id": 4,
         "name": "Trol",
         "comment": "Los salvajes trols de Azeroth son infames por su crueldad, su oscuro misticismo y por irradiar odio al resto de razas. No obstante, la excepción entre los trols es la tribu Lanza Negra.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Shoto_Todoroki%2C_the_Son_of_Endeavor.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/5/54/Troll_Crest.png"
       },
       {
         "id": 5,
         "name": "Elfo de Sangre",
         "comment": "Durante casi 7 mil años, la sociedad de los elfos nobles giraba en torno a la sagrada Fuente del Sol, un manantial que se creó usando un vial de energía arcana pura del primer Pozo de la Eternidad.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/d/d9/Icon_of_Blood.png/"
       },
       {
         "id": 6,
         "name": "Humano",
         "comment": "Recientes descubrimientos han demostrado que los humanos descienden de los bárbaros vrykul, guerreros semigigantes que viven en Rasganorte.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/7/7b/Eijiro_Kirishima%2C_the_Vigor_Hero.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/0/0e/Human_Crest.png"
       },
       {
         "id": 7,
         "name": "Enano",
         "comment": "Los audaces y valientes enanos son una antigua raza descendiente de los seres terráneos de piedra viviente creados por los titanes cuando el mundo era joven.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Aizawa.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/0/0a/Dwarf_Crest.png"
       },
       {
         "id": 8,
         "name": "Elfo de la noche",
         "comment": "Los ancestrales y recluidos elfos de la noche han desempeñado un papel fundamental en la forja del destino de Azeroth.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/c/c6/Night_Elf_Crest.png"
       },
       {
         "id": 9,
         "name": "Gnomo",
         "comment": "Los inteligentes, valientes y a menudo excéntricos gnomos representan una paradoja única entre las razas civilizadas de Azeroth.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/f/fa/Gnome_Crest.png"
       },
       {
         "id": 10,
         "name": "Draenei",
         "comment": "Mucho antes de que el titán caído Sargeras desatara la Legión sobre Azeroth, conquistó el mundo de Argus junto con sus moradores: los eredar.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+        "img": "https://static.wikia.nocookie.net/wowpedia/images/a/aa/Draenei_Crest.png"
       }
       
     ]
