@@ -2,51 +2,64 @@
     "characters": [
       {
         "id": 1,
-        "name": "Hisoka Morow",
-        "comment": "Right now, I'm letting you live. And I'll continue to keep you alive... until you've grown enough to become worth killing.",
+        "name": "Orco",
+        "comment": "A diferencia de las demás razas de la Horda, los orcos no son nativos de Azeroth. En sus orígenes, vivían como clanes chamánicos en el exuberante mundo de Draenor. Dejaron a un lado su pacífica cultura cuando Kil'jaeden, un señor demoníaco de la Legión Ardiente, los corrompió y los usó para vengarse de los draenei, exiliados del mundo natal de Kil'jaeden.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/b/b2/Hisoka1.jpeg"
       },
       {
         "id": 2,
-        "name": "Killua Zoldyck",
-        "comment": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
+        "name": "No-Muerto",
+        "comment": "La muerte no supuso el descanso eterno que esperaba la multitud de humanos asesinados durante la campaña del Rey Exánime para erradicar toda vida de Lordaeron. En lugar de morir, los caídos del reino fueron resucitados como esbirros no-muertos de la Plaga y se vieron obligados a librar una profana guerra contra todo aquello y aquellos que una vez amaron.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/8/83/BoFIV_Ryu_Artwork.webp5"
       },
       {
         "id": 3,
-        "name": "Kurapika",
-        "comment": "I do not fear death. I fear only that my rage will fade over time.",
+        "name": "Tauren",
+        "comment": "Los pacíficos tauren, conocidos en su idioma como los shu'halo, son antiguos moradores de Kalimdor que luchan por preservar el equilibrio de la naturaleza a petición de su diosa, la Madre Tierra. Hasta hace poco, los tauren vivían como nómadas diseminados por los Baldíos y cazaban a los grandes kodos de la árida región.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/CuddlesProfilePictureImageZ.png"
       },
       {
         "id": 4,
-        "name": "Shoto Todoroki",
-        "comment": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
+        "name": "Trol",
+        "comment": "Los salvajes trols de Azeroth son infames por su crueldad, su oscuro misticismo y por irradiar odio al resto de razas. No obstante, la excepción entre los trols es la tribu Lanza Negra. Esta orgullosa tribu, cuya historia está plagada de subordinación y exilio, estuvo al borde de la extinción cuando una violenta tormenta arrastró al jefe de guerra Thrall y a sus poderosas fuerzas de la Horda a la lejana isla de los trols en los Mares del Sur.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Shoto_Todoroki%2C_the_Son_of_Endeavor.png"
       },
       {
         "id": 5,
-        "name": "Saitama",
-        "comment": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
+        "name": "Elfo de Sangre",
+        "comment": "Durante casi 7 mil años, la sociedad de los elfos nobles giraba en torno a la sagrada Fuente del Sol, un manantial que se creó usando un vial de energía arcana pura del primer Pozo de la Eternidad. Alimentado y fortalecido por las potentes energías de la Fuente del Sol, el encantado mundo de los elfos nobles, Quel’Thalas, prosperaba entre los verdes bosques al norte de Lordaeron.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png"
       },
       {
         "id": 6,
-        "name": "Eijiro Kirishima",
-        "comment": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
+        "name": "Humano",
+        "comment": "Recientes descubrimientos han demostrado que los humanos descienden de los bárbaros vrykul, guerreros semigigantes que viven en Rasganorte. Los primeros humanos fueron esencialmente un pueblo segregado y tribal durante varios miles de años, hasta que la fuerza creciente del Imperio trol los obligó a unificarse. Así fue como se formó la nación de Arathor, junto con su capital, la ciudad estado de Strom.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/7/7b/Eijiro_Kirishima%2C_the_Vigor_Hero.png"
       },
       {
         "id": 7,
-        "name": "Shouta Aizawa",
-        "comment": "I'm sorry to tell you... that for the next three years... U.A. will run you through the wringer. That's \"Plus Ultra\". Use your strength to overcome it all. So bring it",
+        "name": "Enano",
+        "comment": "Los audaces y valientes enanos son una antigua raza descendiente de los seres terráneos de piedra viviente creados por los titanes cuando el mundo era joven. A causa de una extraña enfermedad conocida como «la maldición de la carne», los progenitores terráneos de los enanos sufrieron una transformación que convirtió su tez pétrea en piel carnosa. Estas criaturas de carne y hueso se autodenominaron «enanos», y esculpieron la grandiosa ciudad de Forjaz en los picos nevados de Khaz Modan.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Aizawa.png"
       },
       {
         "id": 8,
-        "name": "Izuku Midoriya",
-        "comment": "I'm not gonna be your worthless punching bag Deku forever... Kacchan. I'm... I'm the Deku who always does his best!",
+        "name": "Elfo de la noche",
+        "comment": "Los ancestrales y recluidos elfos de la noche han desempeñado un papel fundamental en la forja del destino de Azeroth. Los elfos de la noche actuales todavía recuerdan la Guerra de los Ancestros de hace más de 10 000 años, cuando frustraron la primera invasión de Azeroth a manos de la Legión Ardiente. Siglos después, cuando los remanentes de la Legión se unieron a los viles sátiros, los elfos de la noche volvieron a hacer frente a la amenaza y terminaron venciendo a las fuerzas dispuestas a sembrar el caos en su mundo.",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+      },
+      {
+        "id": 9,
+        "name": "Gnomo",
+        "comment": "Los inteligentes, valientes y a menudo excéntricos gnomos representan una paradoja única entre las razas civilizadas de Azeroth. Esta raza de brillantes inventores y de una alegría incontenible ha sufrido traiciones, segregaciones y casi el genocidio. Su extraordinario optimismo ante tales calamidades simboliza el espíritu verdaderamente resuelto de los gnomos.​",
+        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+      },
+      {
+        "id": 10,
+        "name": "Draenei",
+        "comment": "Mucho antes de que el titán caído Sargeras desatara la Legión sobre Azeroth, conquistó el mundo de Argus junto con sus moradores: los eredar. Convencido de que esta superdotada raza jugaría un papel fundamental en su afán de destruir la creación, Sargeras contactó con los líderes de los eredar —Kil'jaeden, Archimonde y Velen— y les ofreció poder y conocimiento a cambio de su lealtad.",
         "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
       }
+      
     ]
 }
