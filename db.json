@@ -1,65 +1,34 @@
 {
-    "characters": [
+    "materiales": [
       {
-        "id": 1,
-        "name": "Orco",
-        "comment": "A diferencia de las demás razas de la Horda, los orcos no son nativos de Azeroth. En sus orígenes, vivían como clanes chamánicos en el exuberante mundo de Draenor.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/74/Orc_Crest.png"
+        "name": "Telescopio",
+        "image": "https://www.astrocordoba.es/images/documentos/t_refractor.jpg",
+        "stock": "23",
+        "modificationDate": "2021-05-20"
       },
       {
-        "id": 2,
-        "name": "Humano",
-        "comment": "Recientes descubrimientos han demostrado que los humanos descienden de los bárbaros vrykul, guerreros semigigantes que viven en Rasganorte.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/0/0e/Human_Crest.png"
+        "name": "Probeta",
+        "image": "https://cdn.shopify.com/s/files/1/0334/0160/2187/products/shutterstock_433156063_1600x.jpg?v=1586605133",
+        "stock": "40",
+        "modificationDate": "2021-04-12"
       },
       {
-        "id": 3,
-        "name": "No-Muerto",
-        "comment": "La muerte no supuso el descanso eterno que esperaba la multitud de humanos asesinados durante la campaña del Rey Exánime para erradicar toda vida de Lordaeron.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/72/Forsaken_Crest.png"
+        "name": "Papel Higiénico",
+        "image": "https://www.eluniverso.com/resizer/umHXkFri5Xhs4NsC_qzJ-5xcoY8=/1005x670/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/eluniverso/N2NO3HSQIVCW5LNKMZCWGKOOS4.jpg",
+        "stock": "76",
+        "modificationDate": "2021-01-01"
       },
       {
-        "id": 4,
-        "name": "Enano",
-        "comment": "Los audaces y valientes enanos son una antigua raza descendiente de los seres terráneos de piedra viviente creados por los titanes cuando el mundo era joven.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/0/0a/Dwarf_Crest.png"
+        "name": "Termómetro de laboratorio",
+        "image": "https://www.cremas-caseras.es/2370-thickbox_default/termometro-laboratorio.jpg",
+        "stock": "5",
+        "modificationDate": "2020-10-07"
       },
       {
-        "id": 5,
-        "name": "Tauren",
-        "comment": "Los pacíficos tauren, conocidos en su idioma como los shu'halo, son antiguos moradores de Kalimdor que luchan por preservar el equilibrio de la naturaleza a petición de su diosa, la Madre Tierra.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/7/78/Tauren_Crest.png"
-      },
-      {
-        "id": 6,
-        "name": "Elfo de la noche",
-        "comment": "Los ancestrales y recluidos elfos de la noche han desempeñado un papel fundamental en la forja del destino de Azeroth.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/c/c6/Night_Elf_Crest.png"
-      },
-      {
-        "id": 7,
-        "name": "Trol",
-        "comment": "Los salvajes trols de Azeroth son infames por su crueldad, su oscuro misticismo y por irradiar odio al resto de razas. No obstante, la excepción entre los trols es la tribu Lanza Negra.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/5/54/Troll_Crest.png"
-      },
-      {
-        "id": 8,
-        "name": "Gnomo",
-        "comment": "Los inteligentes, valientes y a menudo excéntricos gnomos representan una paradoja única entre las razas civilizadas de Azeroth.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/f/fa/Gnome_Crest.png"
-      },
-      {
-        "id": 9,
-        "name": "Elfo de Sangre",
-        "comment": "Durante casi 7 mil años, la sociedad de los elfos nobles giraba en torno a la sagrada Fuente del Sol, un manantial que se creó usando un vial de energía arcana pura del primer Pozo de la Eternidad.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/d/d9/Icon_of_Blood.png"
-      },
-      {
-        "id": 10,
-        "name": "Draenei",
-        "comment": "Mucho antes de que el titán caído Sargeras desatara la Legión sobre Azeroth, conquistó el mundo de Argus junto con sus moradores: los eredar.",
-        "img": "https://static.wikia.nocookie.net/wowpedia/images/a/aa/Draenei_Crest.png"
+        "name": "Tubo de ensayo",
+        "image": "https://www.reporteroindustrial.com/documenta/imagenes/50000170/Tubos-de-ensayo-208-g.jpg",
+        "stock": "33",
+        "modificationDate": "2021-03-11"
       }
-      
     ]
 }
